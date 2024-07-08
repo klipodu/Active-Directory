@@ -27,3 +27,6 @@ I was inspired by myDFIR found [here](https://www.youtube.com/watch?v=5OessbOgyE
 - Atomic Red Team
 
 ## Overview
+
+<img src="https://github.com/klipodu/Active-Directory/blob/main/Active%20Directory.drawio.png?raw=true" alt="Image Alt">
+
