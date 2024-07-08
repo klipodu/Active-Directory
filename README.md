@@ -7,12 +7,14 @@ I was inspired by myDFIR found [here](https://www.youtube.com/watch?v=5OessbOgyE
 
 ### Skills Learned
 
-- Home lab using virtualization
-- Incident Response Training
-- Case management and reporting
-- Automation
-- Integration Testing
-- Threat Intelligence Enrichment
+- Windows Server Administration
+- Directory Services
+- Networking
+- Log Management
+- Security Fundamentals
+- Ethical Hacking
+- Troubleshooting
+- Virtualization
   
 ### Tools Used
 
